@@ -12,7 +12,7 @@
     <bpmn:scriptTask id="Task_1770929622982">
       <bpmn:incoming>Flow1_1770929622982</bpmn:incoming>
       <bpmn:outgoing>Flow2_1770929622982</bpmn:outgoing>
-      <bpmn:script>x=1</bpmn:script>
+      <bpmn:script>x=2</bpmn:script>
     </bpmn:scriptTask>
   </bpmn:process>
   <bpmndi:BPMNDiagram id="BPMNDiagram_1">
